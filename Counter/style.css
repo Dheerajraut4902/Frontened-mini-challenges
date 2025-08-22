@@ -1,0 +1,29 @@
+* {
+  box-sizing: border-box;
+}
+
+body {
+  text-align: center;
+}
+
+.count {
+  font-size: 3rem;
+}
+
+button {
+  font-size: 1rem;
+  padding: 10px 15px;
+  border: 1px solid black;
+  cursor: pointer;
+  background-color: cyan;
+  border-radius: 4px;
+}
+
+.changeby {
+  width: 5rem;
+  height: 2rem;
+  font-size: 1rem;
+  border: 1px solid black;
+  border-radius: 4px;
+  margin: 16px 8px;
+}
